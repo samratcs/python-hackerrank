@@ -16,6 +16,12 @@ The result of the float division is 3 / 5 = 0.6.
 Print:
 0
 0.6
+
+Link:
+https://www.hackerrank.com/
+
+Author:
+Samrat Sur
 """
 if __name__ == '__main__':
     a = int(input())
